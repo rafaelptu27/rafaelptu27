@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Olá, meu nome é Rafael Dias Moreira!
+
+- 33 anos
+- Engenheiro de Telecomunicações por formação
+- Atuo como Consultor de Marketing
+- Futuro Desenvolvedor Full Stack
