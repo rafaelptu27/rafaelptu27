@@ -17,6 +17,8 @@ Here are some ideas to get you started:
 Olá, meu nome é Rafael Dias Moreira!
 
 - 33 anos
-- Engenheiro de Telecomunicações por formação
+- Engenheiro de Telecomunicações
 - Atuo como Consultor de Marketing
 - Futuro Desenvolvedor Full Stack
+
+https://media1.tenor.com/m/UK3EyARu-iwAAAAd/game-of-thrones-season-2.gif
