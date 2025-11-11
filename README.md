@@ -19,6 +19,6 @@ Olá, meu nome é Rafael Dias Moreira!
 - 33 anos
 - Engenheiro de Telecomunicações
 - Atuo hoje como Consultor de Marketing
-- Futuro Desenvolvedor Full Stack
+- Tentando ser Desenvolvedor
 
 ![many faces](game-of-thrones-season-2.gif)
